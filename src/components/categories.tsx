@@ -19,7 +19,7 @@ const Categories = () => {
       <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4'>
         {/* Category 1 */}
         <div className='mb-7 lg:mb-0 overflow-hidden z-10 mx-auto group relative'>
-          <Link href={"/Stitched"}>
+          <Link href={"/stitched"}>
             <div className="relative w-[300px] h-[300px]">
               <Image
                 src='/pictures/kurti1.jpg'
@@ -43,7 +43,7 @@ const Categories = () => {
         </div>
         {/* Category 2 */}
         <div className='mb-7 lg:mb-0 overflow-hidden z-10 mx-auto group relative'>
-          <Link href={"/Unstitched"}>
+          <Link href={"/unstitched"}>
             <div className="relative w-[300px] h-[300px]">
               <Image
                 src='/pictures/suit1.jpg'
@@ -65,7 +65,7 @@ const Categories = () => {
         </div>
         {/* Category 3 */}
         <div className='mb-7 lg:mb-0 overflow-hidden z-10 mx-auto group relative'>
-          <Link href={"/Accessories"}>
+          <Link href={"/accessories"}>
             <div className="relative w-[300px] h-[300px]">
               <Image
                 src='/pictures/accessories.jpg'
@@ -87,7 +87,7 @@ const Categories = () => {
         </div>
         {/* Category 4 */}
         <div className='mb-7 lg:mb-0 overflow-hidden z-10 mx-auto group relative'>
-          <Link href={"/Shoes"}>
+          <Link href={"/shoes"}>
             <div className="relative w-[300px] h-[300px]">
               <Image
                 src='/pictures/shoe1.webp'
