@@ -23,7 +23,7 @@ const About = () => {
         height={500}/>
         </div>
         <ul className='text-base sm:text-xl lg:text-2xl font-serif'>
-       <li> Welcome to <span className='text-myOrange font-bold'>BS&#45;Clothing</span>, where fashion meets confidence. 
+       <li> Welcome to <span className='text-myOrange font-bold'>BS MART</span>, where fashion meets confidence. 
         We are passionate about empowering women with stylish clothing, 
         chic shoes, and exquisite accessories designed to celebrate individuality and elegance.</li><br/>
 
@@ -31,13 +31,13 @@ const About = () => {
         and milestone in your life. From timeless classics to trendsetting designs,
          we aim to inspire your wardrobe with pieces that make you feel bold, beautiful, and unstoppable.</li><br/>
 
-      <li>At  <span className='text-myOrange font-bold'>BS&#45;Clothing</span>, we believe in quality, 
+      <li>At  <span className='text-myOrange font-bold'>BS MART</span>, we believe in quality, 
        comfort, and sustainability. Our commitment is to deliver 
        exceptional products that not only enhance your style but also 
-       reflect your values. Whether you're dressing for work, play, 
-       or something in between, we’ve got you covered.</li><br/>
+       reflect your values. Whether you are dressing for work, play, 
+       or something in between, we have got you covered.</li><br/>
 
-     <li>Step into the world of  <span className='text-myOrange font-bold'>BS&#45;Clothing</span>
+     <li>Step into the world of <span className='text-myOrange font-bold'>BS MART</span>
       and discover fashion that speaks to your soul. 
       Because every woman deserves to shine, and your style story starts here.
      </li></ul>
