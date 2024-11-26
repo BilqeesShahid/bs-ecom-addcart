@@ -10,7 +10,7 @@ const FeaturedProducts = () => {
     
   const bestSell= useAppSelector((state) => state.products.slice(0,9))
   //carousel settings
-  var settings = {
+  const settings = {
     dots: true,
     arrows:false,
     infinite: true,
